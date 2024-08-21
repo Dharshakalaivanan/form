@@ -1,0 +1,8 @@
+# Ignore the public directory
+
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+/server/node_modules
+/public/node_modules
