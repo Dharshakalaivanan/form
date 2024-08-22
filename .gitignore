@@ -4,5 +4,5 @@
 *.log
 
 # Ignore node_modules directory
-/server/node_modules
-/public/node_modules
+server/node_modules/
+/node_modules/
